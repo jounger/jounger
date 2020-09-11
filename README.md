@@ -28,7 +28,7 @@
 
 </details>
 
-[facebook]: https://www.facebook.com/joungsty/
+[facebook]: https://www.facebook.com/joungsty
 [instagram]: https://www.instagram.com/joungsty
 [codewars]: https://www.codewars.com/users/jounger
 [hackerrank]: https://www.hackerrank.com/jounger
