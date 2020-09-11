@@ -10,18 +10,27 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: N/A
 
+### Connect with me:
+
+[<img align="left" alt="Nguyen Van An | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Nguyen Van An | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Nguyen Van An | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
+[<img align="left" alt="Nguyen Van An | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+
+<br />
+
 ---
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Github Stats & Top Used Languages</summary>
 
-  <img align="left" alt="Jounger's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jounger&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jounger's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jounger&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-</details>
-
-<details>
-  <summary>:zap: Top Languages</summary>
-
-  <img align="left" alt="Jounger's Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jounger&layout=compact&hide_border=true" />
+  <img align="left" alt="Jounger's Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jounger&layout=compact&hide_border=true&include_all_commits=true&count_private=true" />
 
 </details>
+
+[facebook]: https://www.facebook.com/joungsty/
+[instagram]: https://www.instagram.com/joungsty
+[codewars]: https://www.codewars.com/users/jounger
+[hackerrank]: https://www.hackerrank.com/jounger
