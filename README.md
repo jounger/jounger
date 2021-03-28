@@ -4,11 +4,11 @@
 **jounger/jounger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm college senior (FPT University):
+## I'm a software engineer:
 
-- 🌱 I’m currently learning Vue, Spring Boot and everything 😄
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: N/A
+- 🌱 Road to AWS SA and Cloud services
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: This is a fun fact 😆
 
 ### Connect with me:
 
