@@ -1,4 +1,4 @@
-### Hi there, I'm An Van Nguyen (Jounger) 👋
+### Hi there, I'm An Nguyen Van (Jounger) 👋
 
 <!--
 **jounger/jounger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
