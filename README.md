@@ -27,5 +27,6 @@
 
 </details>
 
+[leetcode]: https://leetcode.com/jounger/
 [codewars]: https://www.codewars.com/users/jounger
 [hackerrank]: https://www.hackerrank.com/jounger
